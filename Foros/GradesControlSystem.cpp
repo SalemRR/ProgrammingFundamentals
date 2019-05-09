@@ -194,14 +194,24 @@ do{
 
             case 'c':
                 //Para Calcular el promedio global de la clase, es necesario calcular el promedio individual de cada uno de los alumnos, y finalmente calcular el promedio global
-                //Para el promedio individual, recuerde que se deben sumar las M notas coontenidas en cada una de las filas de la matriz y dividirlas entre M.
-                //Escriba el codigo necesario para realizarlo.
-            break;
+                /z/Para el promedio individual, recuerde que se debe sumar las M notas coontenidas en cada una de las filas de la matriz y dividirlas entre M.
+                //Escriba el codigo necesario para realizarlo. 
+                {PromedioIndividual}
+                (Cal1, Cal2, Cal3, Cal4, Cal5)
+                Imputar (Cal1+Cal2+Cal3+Cal4+Cal5)
+                ("Resultado Final", Prom)
+                  cout <<end<<
+           break;
 
             case 'd':
                 // //Para Calcular el promedio global de la clase, es necesario calcular el promedio individual de cada uno de los alumnos, y finalmente en base al promedio de cada uno de estos
                 // Se deberan ordenar de acuerdo a las notas para determinar cual de ellos son los 3 primeros lugares.
 
+               Cal1 = 1
+               Cal4 = 3 
+               Cal2 = 2 
+               Cout <end<
+                   
             break;
 
             case 'e':
